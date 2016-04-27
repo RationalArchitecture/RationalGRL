@@ -6,6 +6,6 @@ Goal modeling languages, such as i* and the Goal-oriented Requirements Language 
 
 # Project Content
 
-* `Case study description`: A description of the case study eGovernment that we used.
-* `GRL Extension`: A set of OCL rules that can be imported into the jUCMNav Eclipse-based tool. 
-The folder also contains installation instructions, GRL models and screenshots of these models.
+* `Case study description.pdf`: A description of the Schiphol case study that we used.
+* `Translation Tool`: Explanation and source of our online translation tool: http://www.marcvanzee.nl/RationalGRL
+* `GRL Models`: Some example GRL models that were created using our tool.
