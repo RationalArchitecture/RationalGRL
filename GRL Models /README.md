@@ -1,4 +1,5 @@
 # Content of this folder
+This folder contains GRL models and evaluations that have been generated with the RationalGRL translation tool.
 * PNG images of the GRL models of the principles and the goals of Schiphol (`*.png`)
 * This readme file (`README.md`)
 * GRL models of the principles and the goals of Schiphol (`*.jucm`)
