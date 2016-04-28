@@ -16,7 +16,3 @@ If the user chooses to resolve conflicts themselves, then the following dialog m
 ![Tool main screen](../img/tool_screenshot2.png)
 
 Here, the user can select which arguments he/she prefers.
-
-# Importing from Argument Web / Exporting to GRL
-
-More details on the procedure can be found in the [main directory of this project](../)
