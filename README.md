@@ -8,4 +8,3 @@ Goal modeling languages, such as i* and the Goal-oriented Requirements Language 
 * [Case study documents](Case study documents): A description of the Schiphol case study that we used.
 * [GRL Models](GRL Models): Some example GRL models that were created using our tool.
 * [Translation Tool](Translation Tool): Explanation and source of our online translation tool: http://www.marcvanzee.nl/RationalGRL
-* [img](img): Some images used on this Github repository.
